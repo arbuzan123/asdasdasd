@@ -1,0 +1,54 @@
+script_key="DFUoAXhCnnqWSzaOgDrIHvwJecrRehjP"; -- Your Premium Key here
+
+--Settings For Booths Sniper
+_G.ZapHubBoothsSniperSettings = {
+    MinimumGems = 0,
+    Items = {
+        {Item = "Royalty", MaxPrice = 4000000, Class = "Charm"},
+        {Item = "Overload", MaxPrice = 5000000, Class = "Charm"},
+        {Item = "MVP Key", MaxPrice = 4000000, Class = "Misc"},
+        {Item = "Tech Key", MaxPrice = 30000, Class = "Misc"},
+        {Item = "Tech Key Upper Half", MaxPrice = 30000, Class = "Misc"},
+        {Item = "Secret Key", MaxPrice = 20000, Class = "Misc"},
+        {Item = "Secret Key Upper Half", MaxPrice = 20000, Class = "Misc"},
+        {Item = "MVP Key Upper Half", MaxPrice = 4000000, Class = "Misc"},
+        {Item = "Titanic Anime Cat Card", MaxPrice = 1000000000, Class = "Card"},
+        {Item = "Titanic Sea Dragon Card", MaxPrice = 1050000000, Class = "Card"},
+        {Item = "Super Shiny Hunter", MaxPrice = 3500000000, Class = "Enchant"},
+        {Item = "Diamond Gift Hunter", MaxPrice = 2000000000, Class = "Enchant"},
+        {Item = "Super Magnet", MaxPrice = 1500000000, Class = "Enchant"},
+        {Item = "Breakable Mayhem", MaxPrice = 1000000000, Class = "Enchant"},
+        {Item = "Rainbow Eggs", MaxPrice = 5000000000, Class = "Enchant"},
+        {Item = "Boss Chest Mimic", MaxPrice = 140000000, Class = "Enchant"},
+        {Item = "Chest Mimic", MaxPrice = 2000000000, Class = "Enchant"},
+        {Item = "Diamond Chest Mimic", MaxPrice = 400000000, Class = "Enchant"},
+        {Item = "Superior Chest Mimic", MaxPrice = 600000000, Class = "Enchant"},
+        {Item = "Titanic Nutcracker Cat", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Snow Elf", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Ice Snake", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Ooze Cat", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Diamond Bunny", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Teacher Cat", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Loveserker", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Super Wolf", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Hydra Axolotl", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Nutcracker Squirrel", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Sea Dragon", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Easter Axolotl", MaxPrice = 8000000000, Class = "Pet"},
+        {Item = "Titanic Easter Cat", MaxPrice = 8000000000, Class = "Pet"},
+    },
+    Extras = {
+        TitanicPet = {Enabled = true, PercentageProfit = "1", MaxPrice = 8000000000},
+        HugePet = {Enabled = true, PercentageProfit = "10", MaxPrice = 11000000},
+        AnyItem = {Enabled = false, PercentageProfit = "100", MaxPrice = 1000000},
+    },
+    ServerHop = {
+        Enabled = true, -- true / false
+    },
+    Webhook = {
+        Enabled = true, -- true / false
+        WebhookURL = "https://discord.com/api/webhooks/1364470816057856041/o63u7eimVocgX1eUs2yXvJu8aIBJGfPbm0JoG_sKVZ6YN3Jlanf-dJZnrcKuT_avtDRx", -- Your Discord Webhook URL here.
+    },
+}
+
+loadstring(game:HttpGet('https://zaphub.xyz/ExecBoothSniper'))()
