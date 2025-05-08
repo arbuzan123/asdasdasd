@@ -4,8 +4,8 @@ script_key="DFUoAXhCnnqWSzaOgDrIHvwJecrRehjP"; -- Your Premium Key here
 _G.ZapHubBoothsSniperSettings = {
     MinimumGems = 0,
     Items = {
-        {Item = "Royalty", MaxPrice = 4000000, Class = "Charm"},
-        {Item = "Overload", MaxPrice = 5000000, Class = "Charm"},
+        {Item = "Royalty", MaxPrice = 4700000, Class = "Charm"},
+        {Item = "Overload", MaxPrice = 6000000, Class = "Charm"},
         {Item = "MVP Key", MaxPrice = 5000000, Class = "Misc"},
         {Item = "Tech Key", MaxPrice = 30000, Class = "Misc"},
         {Item = "Tech Key Upper Half", MaxPrice = 30000, Class = "Misc"},
