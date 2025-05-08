@@ -6,7 +6,7 @@ _G.ZapHubBoothsSniperSettings = {
     Items = {
         {Item = "Royalty", MaxPrice = 4000000, Class = "Charm"},
         {Item = "Overload", MaxPrice = 5000000, Class = "Charm"},
-        {Item = "MVP Key", MaxPrice = 4000000, Class = "Misc"},
+        {Item = "MVP Key", MaxPrice = 5000000, Class = "Misc"},
         {Item = "Tech Key", MaxPrice = 30000, Class = "Misc"},
         {Item = "Tech Key Upper Half", MaxPrice = 30000, Class = "Misc"},
         {Item = "Secret Key", MaxPrice = 20000, Class = "Misc"},
@@ -19,7 +19,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Super Magnet", MaxPrice = 1500000000, Class = "Enchant"},
         {Item = "Breakable Mayhem", MaxPrice = 1000000000, Class = "Enchant"},
         {Item = "Rainbow Eggs", MaxPrice = 5000000000, Class = "Enchant"},
-        {Item = "Boss Chest Mimic", MaxPrice = 140000000, Class = "Enchant"},
+        {Item = "Boss Chest Mimic", MaxPrice = 150000000, Class = "Enchant"},
         {Item = "Chest Mimic", MaxPrice = 2000000000, Class = "Enchant"},
         {Item = "Diamond Chest Mimic", MaxPrice = 400000000, Class = "Enchant"},
         {Item = "Superior Chest Mimic", MaxPrice = 600000000, Class = "Enchant"},
