@@ -51,4 +51,4 @@ _G.ZapHubBoothsSniperSettings = {
     },
 }
 
-loadstring(game:HttpGet('https://zaphub.xyz/ExecBoothSniper'))()
+loadstring(game:HttpGet("https://zaphub.xyz/ExecBoothSniper"))()
