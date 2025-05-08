@@ -39,7 +39,7 @@ _G.ZapHubBoothsSniperSettings = {
     },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "1", MaxPrice = 8000000000},
-        HugePet = {Enabled = true, PercentageProfit = "10", MaxPrice = 8000000},
+        HugePet = {Enabled = true, PercentageProfit = "10", MaxPrice = 9000000},
         AnyItem = {Enabled = false, PercentageProfit = "100", MaxPrice = 1000000},
     },
     ServerHop = {
