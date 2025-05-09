@@ -17,7 +17,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Super Shiny Hunter", MaxPrice = 3500000000, Class = "Enchant"},
         {Item = "Diamond Gift Hunter", MaxPrice = 2000000000, Class = "Enchant"},
         {Item = "Super Magnet", MaxPrice = 1500000000, Class = "Enchant"},
-        {Item = "Breakable Mayhem", MaxPrice = 1000000000, Class = "Enchant"},
+        {Item = "Breakable Mayhem", MaxPrice = 1200000000, Class = "Enchant"},
         {Item = "Rainbow Eggs", MaxPrice = 5000000000, Class = "Enchant"},
         {Item = "Boss Chest Mimic", MaxPrice = 160000000, Class = "Enchant"},
         {Item = "Chest Mimic", MaxPrice = 2000000000, Class = "Enchant"},
