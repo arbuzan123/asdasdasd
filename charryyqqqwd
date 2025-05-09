@@ -12,7 +12,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Secret Key", MaxPrice = 20000, Class = "Misc"},
         {Item = "Secret Key Upper Half", MaxPrice = 20000, Class = "Misc"},
         {Item = "MVP Key Upper Half", MaxPrice = 5000000, Class = "Misc"},
-        {Item = "Titanic Anime Cat Card", MaxPrice = 1150000000, Class = "Card"},
+        {Item = "Titanic Anime Cat Card", MaxPrice = 1200000000, Class = "Card"},
         {Item = "Titanic Sea Dragon Card", MaxPrice = 1050000000, Class = "Card"},
         {Item = "Super Shiny Hunter", MaxPrice = 3500000000, Class = "Enchant"},
         {Item = "Diamond Gift Hunter", MaxPrice = 2000000000, Class = "Enchant"},
