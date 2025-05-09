@@ -7,8 +7,8 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Exclusive Egg 50", MaxPrice = 92000000, Class = "Egg"},
         {Item = "Huge Rogue Squid", MaxPrice = 8500000, Class = "Pet"},
         {Item = "Huge Rogue Squid", MaxPrice = 9500000, Class = "Pet", Tier = 1},
-        {Item = "Huge Rogue Squid", MaxPrice = 50000000, Class = "Pet", Tier = 2},
-        {Item = "Titanic Anime Cat Card", MaxPrice = 1200000000, Class = "Card"},
+        {Item = "Huge Rogue Squid", MaxPrice = 40000000, Class = "Pet", Tier = 2},
+        {Item = "Titanic Anime Cat Card", MaxPrice = 1150000000, Class = "Card"},
     },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "1", MaxPrice = 8000000000},
