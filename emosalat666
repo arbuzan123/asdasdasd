@@ -7,6 +7,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Huge Red Wolf", MaxPrice = 2000000, Class = "Pet"},
         {Item = "Huge Red Wolf", MaxPrice = 2000000, Class = "Pet", Tier = 1},
         {Item = "Huge Red Wolf", MaxPrice = 8000000, Class = "Pet", Tier = 2},
+        {Item = "Huge Red Wolf", MaxPrice = 8000000, Class = "Pet", Shiny = true},
     },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "1", MaxPrice = 8000000000},
