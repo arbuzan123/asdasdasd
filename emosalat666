@@ -7,6 +7,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Royalty", MaxPrice = 5000000, Class = "Charm"},
         {Item = "Overload", MaxPrice = 6000000, Class = "Charm"},
         {Item = "Tech Key", MaxPrice = 30000, Class = "Misc"},
+        {Item = "Mini Pinata", MaxPrice = 30000, Class = "Misc"},
         {Item = "Tech Key Upper Half", MaxPrice = 30000, Class = "Misc"},
         {Item = "Secret Key", MaxPrice = 20000, Class = "Misc"},
         {Item = "Secret Key Upper Half", MaxPrice = 20000, Class = "Misc"},
