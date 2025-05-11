@@ -4,7 +4,9 @@ script_key="DFUoAXhCnnqWSzaOgDrIHvwJecrRehjP"; -- Your Premium Key here
 _G.ZapHubBoothsSniperSettings = {
     MinimumGems = 0,
     Items = {
+        {Item = "Huge Red Wolf", MaxPrice = 2000000, Class = "Pet"},
         {Item = "Huge Red Wolf", MaxPrice = 2000000, Class = "Pet", Tier = 1},
+        {Item = "Huge Red Wolf", MaxPrice = 8000000, Class = "Pet", Tier = 2},
     },
     Extras = {
         TitanicPet = {Enabled = true, PercentageProfit = "1", MaxPrice = 8000000000},
