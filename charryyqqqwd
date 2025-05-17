@@ -10,6 +10,7 @@ _G.ZapHubBoothsSniperSettings = {
         {Item = "Secret Key Upper Half", MaxPrice = 20000, Class = "Misc"},
         {Item = "Cocktail", MaxPrice = 5000000, Class = "Potion", Tier = 2},
         {Item = "Glitched Drive", MaxPrice = 20000000, Class = "Misc"},
+        {Item = "Rainbow Eggs", MaxPrice = 6000000000, Class = "Enchant"},
         {Item = "Titanic Nutcracker Cat", MaxPrice = 8000000000, Class = "Pet"},
         {Item = "Titanic Snow Elf", MaxPrice = 8000000000, Class = "Pet"},
         {Item = "Titanic Ice Snake", MaxPrice = 8000000000, Class = "Pet"},
